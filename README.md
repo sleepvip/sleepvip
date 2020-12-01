@@ -19,7 +19,7 @@ Menerima jasa pembuatan website
 # 🎓 Projects
 
 - [**Website**](https://botgabut.xyz) 
-- [**Grup tele**] (https://t.me/Projectstargabut) 
+- [**Grup tele**](https://t.me/Projectstargabut) 
 
 
 
